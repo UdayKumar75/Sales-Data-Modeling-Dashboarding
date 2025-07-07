@@ -6,7 +6,14 @@ This project focuses on cleaning, transforming, and modeling sales-related data 
 
 Here’s a quick look at the Power BI dashboard used in this project:
 
-![Sales Dashboard](Dashboard/sales_dashboard.png)
+**Page 1**
+![Dashboard Page 1](Dashboard/Page-1.png)
+
+**Page 2**
+![Dashboard Page 2](Dashboard/Page-2.png)
+
+**Page 3**
+![Dashboard Page 3](Dashboard/Page-3.png)
 
 ## 🔧 Tools & Technologies
 - **SQL Server** (T-SQL)
