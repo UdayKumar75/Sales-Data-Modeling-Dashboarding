@@ -2,6 +2,12 @@
 
 This project focuses on cleaning, transforming, and modeling sales-related data from the AdventureWorksDW2022 database using SQL. The processed data is then used to create an interactive Power BI dashboard for business analysis and decision-making.
 
+## 📊 Dashboard Preview
+
+Here’s a quick look at the Power BI dashboard used in this project:
+
+![Sales Dashboard](Dashboard/sales_dashboard.png)
+
 ## 🔧 Tools & Technologies
 - **SQL Server** (T-SQL)
 - **Power BI**
